@@ -21,7 +21,7 @@ Run the following command at the root of your project and answer the prompted qu
 
     `node server.js`
 
-## Screenshots
+## Preview of application 
 
 ![Departments](https://github.com/AlmonzoRhoden/Employee-Tracker/blob/main/Assets/Departments.PNG)
 
@@ -32,12 +32,6 @@ Run the following command at the root of your project and answer the prompted qu
 ## Video Tutorial
 
 To view the example video, click here: https://drive.google.com/file/d/1zFzriA3BbcsG4gTw8tVnNfiZgJ7u86Z4/view
-
-## Contributors
-[Almonzo Rhoden](https://github.com/AlmonzoRhoden)
-
-## Questions?
-✉️ Contact me with any questions: [Email](AlmonzoRhoden@gmail.com), [Github](https://github.com/AlmonzoRhoden)
 
 ## GitHub
 ![Image of me](https://user-images.githubusercontent.com/61447353/99162776-58830780-26cf-11eb-990c-ecca64de0e36.JPG)
