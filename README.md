@@ -12,10 +12,6 @@ A command-line application that offers a solution for managing a company's emplo
 
 ![Roles](https://github.com/AlmonzoRhoden/Employee-Tracker/blob/main/Assets/Roles.PNG)
 
-## Video Tutorial
-
-To view the example video, click here: https://drive.google.com/file/d/1zFzriA3BbcsG4gTw8tVnNfiZgJ7u86Z4/view
-
 ## Installation
     `npm install inquirer` `npm install mysql` `npm install dotenv` `npm install console.table`
 
@@ -23,3 +19,7 @@ To view the example video, click here: https://drive.google.com/file/d/1zFzriA3B
 Run the following command at the root of your project and answer the prompted questions:
 
     `node server.js`
+
+## Video Tutorial
+
+To view the example video, click here: https://drive.google.com/file/d/1zFzriA3BbcsG4gTw8tVnNfiZgJ7u86Z4/view
